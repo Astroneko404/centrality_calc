@@ -24,9 +24,10 @@ def print_path(parent, j):
 
 def get_solution(dist, parent, src):
     print("Vertex \t\t\t Path")
-    for i in range(1, len(dist)):
+    for i in range(len(dist)):
         print("%d --> %d \t\t" % (src, i), end='')
         print_path(parent, i)
+        print()
 
 
 def dijkstra(mat, src, alpha=0.5):

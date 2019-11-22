@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6132134-c82d-4cde-9e17-8864dc2b5b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Betweenness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Closeness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Betweenness.py" beforeDir="false" afterPath="$PROJECT_DIR$/Betweenness.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +79,7 @@
       <updated>1574275271275</updated>
       <workItem from="1574275272360" duration="1373000" />
       <workItem from="1574276731370" duration="11909000" />
-      <workItem from="1574380943809" duration="4907000" />
+      <workItem from="1574380943809" duration="5245000" />
     </task>
     <servers />
   </component>
@@ -102,6 +100,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/centrality_calc$Betweenness.coverage" NAME="Betweenness Coverage Results" MODIFIED="1574385312883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/centrality_calc$Betweenness.coverage" NAME="Betweenness Coverage Results" MODIFIED="1574386075946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
